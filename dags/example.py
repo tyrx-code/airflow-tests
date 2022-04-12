@@ -1,8 +1,3 @@
-"""
-### Tutorial Documentation
-Documentation that goes along with the Airflow tutorial located
-[here](https://airflow.incubator.apache.org/tutorial.html)
-"""
 from datetime import timedelta
 
 import airflow
